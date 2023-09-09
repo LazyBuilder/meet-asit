@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: Hello
 permalink: "/about/"
 image: assets/images/screenshot.png
 ---
-
-Hi,
 
 I am **Asit**. And this is my attempt to create a central reporsitory of all my expereinces, stories and learnings. 
 
