@@ -10,8 +10,8 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Book a Meeting  
+  url: https://calendly.com/asitd
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -27,6 +27,6 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Download
+- title: Link to Theme
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
   external: true
