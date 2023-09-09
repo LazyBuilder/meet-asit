@@ -1,7 +1,7 @@
 title: "Asit-Deva"
 email: asitdeva@gmail.com
 timezone: UTC
-baseurl: "/meet-ast"
+baseurl: "/meet-asit"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
