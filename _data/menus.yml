@@ -7,7 +7,7 @@ topmenu:
 - title: Blog
   url: "categories/"
 
-- title: Old Projects
+- title: Projects
   url: "projects/"
 
 - title: About
